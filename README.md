@@ -1,6 +1,6 @@
 Year I, semester II: Data structures and algorithms
 
-course two:Stack
+course four: Stack
 
 operations :
 
